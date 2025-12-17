@@ -56,8 +56,8 @@
 				<version>2.22.0</version>
 			</plugin>
 			<plugin>
-		      	<groupId>es.upm.grise.profundizacion</groupId>
-  				<artifactId>pluginExample</artifactId>
+				<groupId>com.github.alexdelacalle</groupId>
+			    <artifactId>pluginExample</artifactId>
 			    <version>1.0-SNAPSHOT</version>
 			    <executions>
 			        <execution>
